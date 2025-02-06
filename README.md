@@ -1,5 +1,12 @@
-- 👋 Hi, I’m bean
-- 👀 I'm interested in building community owned and run services.
-- 🌱 I’m currently learning design and organization patterns.
-- 💞️ I’m not looking to collaborate.. yet! I have some things I want to get rolling.
+- 👋 Hi, I’m beanarine
+- 👀 I'm working on indie horror games and advocacy websites.
+- 🌱 I’m currently learning GScript.
+     My skills; 1 = Dabbled, 3 = Active, 5 = Production experience
+     - ★★★☆☆ GScript
+     - ★★★★☆ C#
+     - ★★☆☆☆ Lua
+     - ★☆☆☆☆ Go
+     - ★★★★★ Typescript
+     - ★★★★★ Python 
+- 💞️ I’m interested in collaborating on small games in Godot or Unity.
 - 📖 I'm reading Moomins and Cedric Johnson.
